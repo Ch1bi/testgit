@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 different stuff
+=======
+additional information!!!!!!!
+>>>>>>> a6be8f2c2456ad0e502402a0691d5c18ef3998eb
